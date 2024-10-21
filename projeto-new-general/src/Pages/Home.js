@@ -13,7 +13,7 @@ export default function Home() {
 
       {/* Usando o Card */}
       <Card
-        title="Sobre" 
+        title="Contato" 
         content="Saiba mais sobre nós e nossos serviços." 
         buttonText="Ir para Contato" 
         onPress={() => navigation.navigate('Contato')} 
